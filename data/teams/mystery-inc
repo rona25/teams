@@ -1,0 +1,16 @@
+{
+  "roles": {
+    "owners": [
+      "dblake",
+      "fjones",
+      "nrogers",
+      "sdoo",
+      "vdinkley"
+    ]
+  },
+  "jira": {
+    "scrum_team": "Mystery Incorporated",
+    "project": "MYS"
+  }
+}
+

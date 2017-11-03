@@ -1,0 +1,16 @@
+{
+  "roles": {
+    "owners": [
+      "alincoln",
+      "froosevelt",
+      "gwashington",
+      "jkennedy",
+      "tjefferson",
+      "ugrant"
+    ]
+  },
+  "jira": {
+    "scrum_team": "US Presidents",
+    "project": "PRES"
+  }
+}

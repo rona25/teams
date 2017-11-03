@@ -1,0 +1,16 @@
+{
+  "roles": {
+    "owners": [
+      "egerry",
+      "gclinton",
+      "jadams",
+      "jcalhoun",
+      "tjefferson"
+    ]
+  },
+  "jira": {
+    "scrum_team": "US Vice Presidents",
+    "project": "VPS"
+  }
+}
+
